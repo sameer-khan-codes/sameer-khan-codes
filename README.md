@@ -1,4 +1,4 @@
-<div align="center">
+`<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:4F46E5&height=240&section=header&text=Sameer%20Khan&fontSize=56&fontColor=EDE9FE&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20%26%20Machine%20Learning&descSize=18&descAlignY=60&descColor=C4B5FD&animation=fadeIn" width="100%" alt="Header" />
 
@@ -22,13 +22,13 @@
 <a href="https://freefire-tournments-ss.lovable.app"><img src="https://img.shields.io/badge/Portfolio-Live%20Project-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E1B4B" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/sameer-khan-223802387"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B" alt="LinkedIn" /></a>
 <a href="mailto:sameersam84748@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20In%20Touch-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B" alt="Email" /></a>
-<a href="https://github.com/sameersam84748-arch"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="GitHub" /></a>
+<a href="https://github.com/sameer-khan-codes"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="GitHub" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ping/?username=sameersam84748-arch&label=Profile%20Views&color=6D28D9&style=flat-square&labelColor=1E1B4B" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/sameersam84748-arch?label=Followers&style=flat-square&color=4F46E5&labelColor=1E1B4B" alt="Followers" />
-<img src="https://img.shields.io/github/stars/sameersam84748-arch/sameersam84748-arch?label=Stars&style=flat-square&color=7C3AED&labelColor=1E1B4B" alt="Stars" />
+<img src="https://komarev.com/ping/?username=sameer-khan-codes&label=Profile%20Views&color=6D28D9&style=flat-square&labelColor=1E1B4B" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/sameer-khan-codes?label=Followers&style=flat-square&color=4F46E5&labelColor=1E1B4B" alt="Followers" />
+<img src="https://img.shields.io/github/stars/sameer-khan-codes/sameer-khan-codes?label=Stars&style=flat-square&color=7C3AED&labelColor=1E1B4B" alt="Stars" />
 
 </div>
 
